@@ -19,7 +19,7 @@ Patient details include ID, name, age, gender, mobile number, disease, and date 
 
 ## Run the program
 
-1. Save the Python source code in a file, for example `hospital_management.py`.
+1. Save the Python source code in a file, for example `hospital_management_system.ipynb`.
 2. Open a terminal in the folder containing the file.
 3. Run:
 
@@ -27,7 +27,7 @@ Patient details include ID, name, age, gender, mobile number, disease, and date 
    python hospital_management.py
    ```
 
-   On some systems, use `python3 hospital_management.py` instead.
+   On some systems, use `hospital_management_system.ipynb` instead.
 
 4. Choose an option from the displayed menu by entering its number.
 
